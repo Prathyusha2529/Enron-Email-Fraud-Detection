@@ -1,4 +1,4 @@
-# Enron-Email-Fraud-Detection
+# Enron-Email-Fraud-Detection - Text Mining
 
 This project leverages text mining and machine learning techniques to analyze the Enron email dataset for detecting fraudulent emails. The project encompasses comprehensive data preprocessing, advanced modeling approaches, and business insights that contribute to combating phishing attacks and enhancing cybersecurity.
 
